@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thewildandy]]></title>
+        <description><![CDATA[thewildandy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 22 Mar 2016 22:33:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get mad, but stay grateful]]></title>
+            <description><![CDATA[<article><h1>Get mad, but stay grateful</h1><p>I may not fit perfectly into the stereotypical categories so often (subliminally) subscribed to, and that's okay. Like many, I didn't luck out on getting my seat at the table, I worked for it and got there on skills and tenacity.</p></article>]]></description>
+            <link>undefinedget-mad-but-stay-grateful/index.html</link>
+            <guid isPermaLink="false">a27f1c80-72f2-4bd5-a871-b13cfaedfb18</guid>
+            <pubDate>Tue, 22 Mar 2016 22:33:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
