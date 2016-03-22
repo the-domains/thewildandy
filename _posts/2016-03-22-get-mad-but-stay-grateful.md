@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Melissa Ng
-    url: 'https://medium.com/@thedesignnomad'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://medium.com'
-  name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
-  domain: medium.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://medium.com/@thedesignnomad/get-mad-but-stay-grateful-c3761a6f84f8#.kul0zv1p7'
+inLanguage: en
+starred: false
 keywords:
   - mad
   - get
@@ -20,8 +16,14 @@ keywords:
   - hard
   - injustice
   - trait
-description: "I may not fit perfectly into the stereotypical categories so often (subliminally) subscribed to, and that's okay. Like many, I didn't luck out on getting my seat at the table, I worked for it and got there on skills and tenacity."
-inLanguage: en
+description: 'This post is meant for anyone who is demoralised, overlooked, dismissed, or feels like you’ve got the odds stacked against you.'
+datePublished: '2016-03-22T23:05:13.680Z'
+dateModified: '2016-03-22T23:05:04.519Z'
+author:
+  - name: Melissa Ng
+    url: 'https://medium.com/@thedesignnomad'
+    avatar: {}
+related: []
 app_links:
   - type: android
     namespace: ai
@@ -48,14 +50,14 @@ app_links:
     namespace: google
     type: android
 title: 'Get mad, but stay grateful'
-datePublished: '2016-03-22T22:33:52.690Z'
-dateModified: '2016-03-22T22:09:36.629Z'
+authors: []
+publisher:
+  name: Medium
+  domain: medium.com
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 sourcePath: _posts/2016-03-22-get-mad-but-stay-grateful.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: get-mad-but-stay-grateful/index.html
 _type: Article
 _context: 'http://schema.org'
 
