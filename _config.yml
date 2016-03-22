@@ -1,7 +1,7 @@
 name: thewildandy
 favicon: null
-layout_spectrum: 0.8349054048303515
-typography_spectrum: 0.34681622264906764
+layout_spectrum: 0.33979
+typography_spectrum: 0.89339
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.06539329537190497
-  lightness: 0.9673411990515888
+    - '#fefffa'
+    - '#40445f'
+    - '#d7cdcc'
+    - '#777181'
+    - '#aea3ad'
+  brandStrength: 1
+  lightness: 0.875
   saturation: 0.99470318807289
-  rhythmicContrast: 0.5257630699779838
+  rhythmicContrast: 0.5
 purpose: []
